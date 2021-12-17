@@ -13,6 +13,8 @@ public class Operations {
 		System.out.println("The difference of the numbers 15 and 45 is:  "+difference);
 		System.out.println("");
 		System.out.println("The product of the numbers 15 and 45 is:   "+product);
+		System.out.println("GIT Repository");
+		
 		// TODO Auto-generated method stub
 
 	}
